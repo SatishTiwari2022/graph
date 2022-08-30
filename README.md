@@ -31,7 +31,25 @@ Use SfSparkAreaChart, SfSparkBarChart and SfSparkWinLossChart widgets to render 
 
 Output In Android:-
 
- Screen.Recording.2022-08-30.at.11.38.13.AM.mov 
+
+
+
+https://user-images.githubusercontent.com/107614710/187369645-4085bd23-bf8c-4c01-adca-a87305a5109e.mov
+
+
+
+
 Output In IOS :-
 
- Screen.Recording.2022-08-30.at.11.36.03.AM.mov 
+
+
+
+
+
+https://user-images.githubusercontent.com/107614710/187369669-19ba3087-9eec-429c-909f-af371dbbab7e.mov
+
+
+
+
+
+
